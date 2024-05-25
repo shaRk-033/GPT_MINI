@@ -1,8 +1,3 @@
-# GPT_MINI
-
-
----
-
 # GPT-Mini: A Lightweight Transformer Language Model
 
 Welcome to GPT-Mini! This repository contains a small-scale implementation of a GPT (Generative Pre-trained Transformer) language model from scratch using PyTorch. This project serves as a learning tool for understanding the inner workings of transformer-based models and for experimenting with language generation tasks on a smaller scale.
