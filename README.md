@@ -1,5 +1,5 @@
 # GPT_MINI
-### Repository Name: GPT-Mini: A Lightweight Transformer Language Model
+
 
 ---
 
